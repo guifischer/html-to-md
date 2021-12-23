@@ -14,6 +14,7 @@ let selfTags={
   'embed':true,
   'keygen':true,
   'source':true,
+  'iframe':true,
 }
 
 function isSelfClosing(tag){
